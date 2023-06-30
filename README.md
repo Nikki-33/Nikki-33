@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikki-33
+- 👋 Hi, I’m Olga
 - 👀 I’m interested in frontend developing
 - 🌱 I’m currently learning JavaScript
 
